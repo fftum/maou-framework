@@ -1,0 +1,21 @@
+{
+  "schema_status": "设计示例；不是 mai_core.py 的直接导入格式",
+  "synthetic": true,
+  "id": "DEMO-CONTENT-001",
+  "owner": "模拟创作者",
+  "beneficiary": "模拟技术读者",
+  "objective": "说明一个任务失败后如何恢复工作",
+  "deliverable": "一篇有示意图的技术文章草稿",
+  "acceptance_criteria": ["标明设计与实测", "注明引用来源", "保留失败边界"],
+  "resources": ["一个写作模型", "本地编辑工具", "人工审核"],
+  "data_scope": "虚构数据与公开文档",
+  "authority": {
+    "allowed": ["本地起草", "比较方案", "登记日志"],
+    "requires_separate_approval": ["对外发布", "使用新数据源", "改变承诺"],
+    "stop_conditions": ["证据不足", "数据范围不清", "超过预定资源上限"]
+  },
+  "candidate_roles": ["起草", "核对", "维护者验收"],
+  "actual_execution": "本文件未执行上述任务",
+  "cash_received": 0,
+  "business_result": "无；完全虚构示例"
+}

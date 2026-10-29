@@ -1,0 +1,21 @@
+{
+  "archive": "元人工智能_MAI与MAOU_双分支研究包_V0.4.zip",
+  "internal_archive_date": "2026-10-18",
+  "public_packaged_on": "2026-10-29",
+  "code": [
+    {
+      "file": "mai_core.py",
+      "archive_member": "MAI_MAOU_双分支_V0.4/MAOU_Core/mai_core.py",
+      "archive_sha256": "b671029a21132464cebaa482e6cbb538c29ea4539b95799cef29f2236675a819",
+      "public_sha256": "b671029a21132464cebaa482e6cbb538c29ea4539b95799cef29f2236675a819",
+      "change": "字节一致"
+    },
+    {
+      "file": "test_mai_core.py",
+      "archive_member": "MAI_MAOU_双分支_V0.4/MAOU_Core/tests/test_mai_core.py",
+      "archive_sha256": "f50654665ec0494b663e3ae29503e282f468efe24614f66471d629b00aeab8e4",
+      "public_sha256": "9c9aadcd7cf310541d2e5eae087f60f352a72e4c0c472d73585744ee8bfcb863",
+      "change": "测试目录适配；核心逻辑未改"
+    }
+  ]
+}
